@@ -1,0 +1,6 @@
+raycasting_engine
+*.a
+*.o
+a.out
+.idea
+.vscode

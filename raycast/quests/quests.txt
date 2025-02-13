@@ -1,0 +1,4 @@
+Quete 1:Survivre a la premiere vague:/1:0:1
+Quete 2:Survivre a la deuxieme vague:/2:0:2
+Quete 3:Survivre a la troiseme vague:/3:0:3
+Quete 4:Survivre a la quatrieme vague:/4:0:4
